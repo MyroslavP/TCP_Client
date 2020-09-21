@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TCP Client</string>
+    <string name="todo">TODO</string>
+</resources>
