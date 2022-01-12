@@ -8,6 +8,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Build;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -129,6 +130,7 @@ public class MainActivity extends AppCompatActivity {
                                                     im2.setImageBitmap(Bitmap.createScaledBitmap(bitmap1, im1.getMeasuredWidth(), im1.getMeasuredHeight(), false));
 
                                                 }
+
                                             }
                                         });
                                     }
